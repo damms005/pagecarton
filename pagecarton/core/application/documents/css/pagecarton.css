@@ -1,10 +1,17 @@
 @charset "utf-8";
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1.8.x
 /* --------------------------------
 
 Basic Style
 
 -------------------------------- */
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1.8.x
 .cd-breadcrumb,
 .cd-multi-steps {
   width: 90%;
@@ -1175,6 +1182,7 @@ a.title_button:hover {
 .pc_container {
   max-width: 1170px;
 }
+
 
 .pc_give_space {
   margin: 1em;
